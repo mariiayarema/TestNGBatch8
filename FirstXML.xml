@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/mariiayarema/eclipse-workspace/TestNG/src/com/class01/PreAndPostConditionAnnotation.java">
+        <classes>
+            <class name="com.class01.PreAndPostConditionAnnotation"/>
+            <class name="com.class01.HRMSTestHomework"/>
+            <class name="com.class01.Task1"/>
+            <class name="com.class01.Task2"/>
+            <class name="com.class01.TestNGInfo">
+            </class>
+        </classes>
+    </test>
+</suite>

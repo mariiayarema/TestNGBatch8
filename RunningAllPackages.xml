@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Classes">
+    <test verbose="2" preserve-order="true"
+          name="Classes from all packages">
+        <packages>
+            <package name="com.class01"></package>
+            <package name="com.class02"></package>
+            <package name="com.class03"></package>
+        </packages>
+    </test>
+</suite>
